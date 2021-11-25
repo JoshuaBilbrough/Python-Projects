@@ -1,1 +1,2 @@
-print ("Hello Wolrd")
+print ("Hello Class")
+print ("Hello Changes")
